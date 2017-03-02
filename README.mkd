@@ -1,0 +1,14 @@
+# Oblique Strategies
+
+![Screenshot of Oblique Strategies app](http://www.globalnerdy.com/wordpress/wp-content/uploads/2017/03/oblique-screenshot-02.jpg)
+
+This app is an iOS implementation of *[Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)*, a tool designed in 1974 by [Brian Eno](http://www.brian-eno.net/) and [Peter Schmidt](http://www.peterschmidtweb.com/) to help studio musicians and other creative types break past creative blocks. The original version was a deck of cards, each with a constraint, question, or suggestion that encouraged what was then called “lateral thinking” and now called “thinking outside the box”. If you were feeling creatively blocked, you’d shuffle the deck and then draw one or more cards, each of which would say something such as:
+
+- Abandon one stricture.
+- Emphasize repetitions.
+- Is there something missing?
+- What would your closest friend do?
+- Use an old idea.
+
+This app was developed as a companion for the February 2017 session of Tampa iOS Meetup, where I led the group through the process of writing “Magic 8-Ball”- and “executive decision maker”-style apps. It’s best accompanied by an article on my tech blog, *[Global Nerdy](http://www.globalnerdy.com/)*: [“Oblique Strategies” and Tampa iOS Meetup’s February 2017 session](http://www.globalnerdy.com/2017/03/02/oblique-strategies-and-tampa-ios-meetups-february-2017-session/).
+

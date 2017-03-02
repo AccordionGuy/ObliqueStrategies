@@ -12,6 +12,7 @@
 		D4BF1D5B1E66F78700EAA997 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4BF1D591E66F78700EAA997 /* Main.storyboard */; };
 		D4BF1D5D1E66F78700EAA997 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4BF1D5C1E66F78700EAA997 /* Assets.xcassets */; };
 		D4BF1D601E66F78700EAA997 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4BF1D5E1E66F78700EAA997 /* LaunchScreen.storyboard */; };
+		D4D25FD61E68598A00BB10CA /* README.mkd in Resources */ = {isa = PBXBuildFile; fileRef = D4D25FD51E68598A00BB10CA /* README.mkd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D4BF1D5C1E66F78700EAA997 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4BF1D5F1E66F78700EAA997 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4BF1D611E66F78700EAA997 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4D25FD51E68598A00BB10CA /* README.mkd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.mkd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		D4BF1D491E66F78700EAA997 = {
 			isa = PBXGroup;
 			children = (
+				D4D25FD51E68598A00BB10CA /* README.mkd */,
 				D4BF1D541E66F78700EAA997 /* Oblique Strategies */,
 				D4BF1D531E66F78700EAA997 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				D4BF1D601E66F78700EAA997 /* LaunchScreen.storyboard in Resources */,
 				D4BF1D5D1E66F78700EAA997 /* Assets.xcassets in Resources */,
+				D4D25FD61E68598A00BB10CA /* README.mkd in Resources */,
 				D4BF1D5B1E66F78700EAA997 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				D4BF1D661E66F78700EAA997 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
