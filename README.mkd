@@ -10,5 +10,5 @@ This app is an iOS implementation of *[Oblique Strategies](https://en.wikipedia.
 - What would your closest friend do?
 - Use an old idea.
 
-This app was developed as a companion for the February 2017 session of Tampa iOS Meetup, where I led the group through the process of writing “Magic 8-Ball”- and “executive decision maker”-style apps. It’s best accompanied by an article on my tech blog, *[Global Nerdy](http://www.globalnerdy.com/)*: [“Oblique Strategies” and Tampa iOS Meetup’s February 2017 session](http://www.globalnerdy.com/2017/03/02/oblique-strategies-and-tampa-ios-meetups-february-2017-session/).
+This app was developed as a companion for the [February 2017 session](https://www.meetup.com/Tampa-iOS-Meetup/events/237387969/) of [Tampa iOS Meetup](https://www.meetup.com/Tampa-iOS-Meetup/), where I led the group through the process of writing “Magic 8-Ball”- and “executive decision maker”-style apps. It’s best accompanied by an article on my tech blog, *[Global Nerdy](http://www.globalnerdy.com/)*: [“Oblique Strategies” and Tampa iOS Meetup’s February 2017 session](http://www.globalnerdy.com/2017/03/02/oblique-strategies-and-tampa-ios-meetups-february-2017-session/).
 
